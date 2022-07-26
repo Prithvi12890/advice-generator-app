@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Prithvi12890/frontend-mentor-challenges/tree/master/advice-generator-app/static/css/main.bb930f50.css",
-    "main.js": "/Prithvi12890/frontend-mentor-challenges/tree/master/advice-generator-app/static/js/main.7bedb7ed.js",
-    "index.html": "/Prithvi12890/frontend-mentor-challenges/tree/master/advice-generator-app/index.html",
-    "static/media/icon-dice.svg": "/Prithvi12890/frontend-mentor-challenges/tree/master/advice-generator-app/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
-    "static/media/pattern-divider-desktop.svg": "/Prithvi12890/frontend-mentor-challenges/tree/master/advice-generator-app/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
-    "static/media/pattern-divider-mobile.svg": "/Prithvi12890/frontend-mentor-challenges/tree/master/advice-generator-app/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
-    "main.bb930f50.css.map": "/Prithvi12890/frontend-mentor-challenges/tree/master/advice-generator-app/static/css/main.bb930f50.css.map",
-    "main.7bedb7ed.js.map": "/Prithvi12890/frontend-mentor-challenges/tree/master/advice-generator-app/static/js/main.7bedb7ed.js.map"
+    "main.css": "/frontend-mentor-challenges/advice-generator-app/static/css/main.bb930f50.css",
+    "main.js": "/frontend-mentor-challenges/advice-generator-app/static/js/main.fab1b8cc.js",
+    "index.html": "/frontend-mentor-challenges/advice-generator-app/index.html",
+    "static/media/icon-dice.svg": "/frontend-mentor-challenges/advice-generator-app/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-desktop.svg": "/frontend-mentor-challenges/advice-generator-app/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
+    "static/media/pattern-divider-mobile.svg": "/frontend-mentor-challenges/advice-generator-app/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.bb930f50.css.map": "/frontend-mentor-challenges/advice-generator-app/static/css/main.bb930f50.css.map",
+    "main.fab1b8cc.js.map": "/frontend-mentor-challenges/advice-generator-app/static/js/main.fab1b8cc.js.map"
   },
   "entrypoints": [
     "static/css/main.bb930f50.css",
-    "static/js/main.7bedb7ed.js"
+    "static/js/main.fab1b8cc.js"
   ]
 }
